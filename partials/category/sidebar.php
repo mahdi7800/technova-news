@@ -1,0 +1,1 @@
+<?php get_template_part('partials/single/_sidebar-category','_sidebar-category'); ?><?php get_template_part('partials/single/_sidebar-trending-topics','sidebar-trending-topics'); ?><?php get_template_part('partials/category/_sidebar-adv','_sidebar-adv'); ?>

@@ -1,0 +1,1 @@
+<!-- Categories --><div class="row g-2"><?php if (is_active_sidebar('sidebar-1'))     dynamic_sidebar('sidebar-1')?></div>

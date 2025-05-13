@@ -1,0 +1,1 @@
+<!-- Advertisement --><div class="mt-4">	<a href="#" class="d-block card-img-flash">		<img src="<?php echo  TNW_URL . '/assets/images/adv.png'?>" alt="">	</a></div>

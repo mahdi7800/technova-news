@@ -1,0 +1,1 @@
+<div class="col-12 col-sm-6 col-lg-12 my-4">	<a href="#" class="d-block card-img-flash">		<img src="<?php echo TNW_URL . '/assets/images/adv.png'?>" alt="">	</a>	<div class="smaller text-end mt-2">تبلیغ در سایت <a href="#" class="text-body-secondary"><u>انتخاب</u></a></div></div>

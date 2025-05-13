@@ -1,0 +1,1 @@
+<?php if (is_page('shop') || is_checkout() || is_cart()) : ?>	<?php get_header('shop'); ?>	<?php the_content(); ?>	<?php get_footer('shop'); ?><?php else : ?>	<?php get_header(); ?>	<?php the_content(); ?>	<?php get_footer(); ?><?php endif; ?>

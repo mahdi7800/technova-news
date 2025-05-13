@@ -1,0 +1,1 @@
+<?phpclass VerificationCode {  public static function tnw_verification_code(): int {	  return rand('100000','999999');  }}
